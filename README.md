@@ -1,4 +1,5 @@
 # Spotify Data Analysis SQL Project
+![](https://github.com/kauz-vii/Spotify_Data_Analysis_SQL_Project/blob/main/Spotify_logo_with_text.svg.png)
 
 ## Project Overview
 
@@ -162,6 +163,7 @@ Execution Time: **0.1 ms**
 
 This demonstrates how indexing significantly improves query performance.
 
+![](https://github.com/kauz-vii/Spotify_Data_Analysis_SQL_Project/blob/main/optimization.jpg)
 ---
 
 ## Key Insights
