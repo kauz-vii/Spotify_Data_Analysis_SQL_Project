@@ -223,5 +223,3 @@ This project demonstrates real data analyst skills:
     <img src="https://img.shields.io/badge/LinkedIn-Kaushik%20Bhadra-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
-
