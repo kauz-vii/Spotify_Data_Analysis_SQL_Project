@@ -1,4 +1,4 @@
--- schema  
+-- schema
 DROP TABLE IF EXISTS spotify;
 CREATE TABLE spotify (
     artist VARCHAR(255),
