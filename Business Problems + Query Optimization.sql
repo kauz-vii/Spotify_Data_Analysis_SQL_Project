@@ -1,4 +1,4 @@
--- BUSINESS PROBLEMS for Spotify Data Analysis  --
+-- BUSINESS PROBLEMS for Spotify Data Analysis --
 
 -- ---------------------------------
 -- Data Analysis - Easy Category
