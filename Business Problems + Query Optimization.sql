@@ -7,7 +7,7 @@
 -- Q1. Retrieve the names of all tracks that have more than 1 billion streams.
 SELECT track
 FROM spotify
-WHERE stream > 1000000000;
+WHERE stream > 1000000000; 
 
 -- Q2. List all albums along with their respective artists.
 SELECT DISTINCT album, artist
