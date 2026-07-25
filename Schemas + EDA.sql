@@ -155,7 +155,7 @@ FROM spotify
 GROUP BY artist, track
 HAVING COUNT(*) > 1;
 
--- Artists with highest total streams
+-- Artists with the highest total streams
 SELECT artist, SUM(stream) AS total_streams
 FROM spotify
 GROUP BY artist
