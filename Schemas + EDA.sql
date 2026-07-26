@@ -30,7 +30,7 @@ CREATE TABLE spotify (
 select * from spotify
 limit 10;
 
---EDA
+--EDA 
 
 select count(*) from spotify;
 
